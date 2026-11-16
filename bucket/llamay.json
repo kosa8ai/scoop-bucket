@@ -1,5 +1,5 @@
 {
-    "version": "0.4.16",
+    "version": "0.4.17",
     "description": "Local inference server with Ollama-, OpenAI- and Anthropic-compatible APIs",
     "homepage": "https://llamay.com",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AzmxAI/llamay-releases/releases/download/v0.4.16/llamay_0.4.16_windows_amd64.zip",
-            "hash": "236a5d9d4841754622f89bffab52b64ed1ba04f8e1d2be4ccd2471cec2041184"
+            "url": "https://github.com/AzmxAI/llamay-releases/releases/download/v0.4.17/llamay_0.4.17_windows_amd64.zip",
+            "hash": "de1827709fbc7ca099606c1002fc8fd6ac1d9832894efece3b999378b3b21fc3"
         },
         "arm64": {
-            "url": "https://github.com/AzmxAI/llamay-releases/releases/download/v0.4.16/llamay_0.4.16_windows_arm64.zip",
-            "hash": "bb3bc89c615321ee770ffbbb908500ed03e65dc76ad8933c0730b55df2a2c1f2"
+            "url": "https://github.com/AzmxAI/llamay-releases/releases/download/v0.4.17/llamay_0.4.17_windows_arm64.zip",
+            "hash": "0237d2ec4f0d0d7384e68839288ecf0f2b77d9a7bad5477a95bd25b47f087a9e"
         }
     },
     "bin": "llamay.exe",
